@@ -100,4 +100,5 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 neofetch --os_arch off --speed_shorthand on --cpu_temp C --cpu_cores off --uptime_shorthand tiny --color_blocks off
+alias clear='clear && neofetch --os_arch off --speed_shorthand on --cpu_temp C --cpu_cores off --uptime_shorthand tiny --color_blocks off'
 
